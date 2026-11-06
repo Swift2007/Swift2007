@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey, I'm Hendrix 👋
 
-<!--
-**Swift2007/Swift2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Computer engineering undergrad who is slowly turning "I wonder how that works" into working apps.
 
-Here are some ideas to get you started:
+I'm studying Computer Engineering and getting into software development. I'm still a beginner, so I'm learning in public: building real things, breaking them, fixing them, and repeating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 What I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🌱 Where I am right now
+
+- 🎓 Studying Computer Engineering
+- 📱 Building mobile apps with **Flutter**
+- ⚡ Writing backends with **FastAPI**
+- 🗄️ Learning how to design databases with **PostgreSQL**
+- 🔭 Exploring what else is out there in software development
+
+## 🚀 Projects
+
+| Project | What it is | Tech | Status |
+| ------- | ---------- | ---- | ------ |
+| **Journal App** | A mobile app for writing and keeping your daily thoughts | Flutter, FastAPI, PostgreSQL | 🚧 In progress |
+| **Loop Spark** | A dating app for meeting new people | Flutter, FastAPI, PostgreSQL | 💡 Idea / planning |
+
+*(More coming as I build them.)*
+
+## 📓 My learning rules
+
+1. Build first, understand deeper later.
+2. Every bug is a free lesson.
+3. Commit small, commit often.
+4. Ask questions, even the "silly" ones.
+
+## 📫 Let's connect
+
+- GitHub: you're already here 🙂
+- Email: hendrixmsiska007@gmail.com
+
+
+---
+
+⭐ *If you're also learning, feel free to follow along. We can grow together.*
