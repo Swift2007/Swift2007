@@ -4,9 +4,6 @@
 
 I'm studying Computer Engineering and getting into software development. I'm still a beginner, so I'm learning in public: building real things, breaking them, fixing them, and repeating.
 
----
-![image](https://github.com/Swift2007/Swift2007/blob/main/Best%20'Kanji%20japanese%20art'%20Poster,%20picture,%20metal%20print,%20paint%20by%20UNIKORN%20_%20Displate%F0%9F%92%AB.jpg?raw=true)
----
 
 ## 🧰 What I work with
 
